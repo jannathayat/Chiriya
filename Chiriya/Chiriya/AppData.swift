@@ -6,7 +6,6 @@
 //
 
 import UIKit
-//This is Data for my application
 struct AppData {
     let userName: String
     let tweet: String
